@@ -1,14 +1,14 @@
-<svg width="372" height="321" viewBox="0 0 372 321" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-<rect width="371.721" height="321" rx="69" fill="url(#pattern0)"/>
+<svg width="360" height="311" viewBox="0 0 360 311" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<rect width="360" height="310.878" rx="69" fill="url(#pattern0)"/>
 <g filter="url(#filter0_d_19_35)">
-<rect x="41.6882" y="74.3441" width="288.344" height="172.312" fill="url(#pattern1)" shape-rendering="crispEdges"/>
-<rect x="42.1882" y="74.8441" width="287.344" height="171.312" stroke="#BE93AD" shape-rendering="crispEdges"/>
+<rect x="40.3738" y="72" width="279.252" height="166.878" fill="url(#pattern1)" shape-rendering="crispEdges"/>
+<rect x="40.8738" y="72.5" width="278.252" height="165.878" stroke="#BE93AD" shape-rendering="crispEdges"/>
 </g>
 <defs>
 <pattern id="pattern0" patternContentUnits="objectBoundingBox" width="1" height="1">
 <use xlink:href="#image0_19_35" transform="translate(1.14766) scale(0.000518338 0.00060024) rotate(90)"/>
 </pattern>
-<filter id="filter0_d_19_35" x="15.6882" y="63.3441" width="340.344" height="224.312" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<filter id="filter0_d_19_35" x="14.3738" y="61" width="331.252" height="218.878" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
 <feFlood flood-opacity="0" result="BackgroundImageFix"/>
 <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
 <feMorphology radius="11" operator="dilate" in="SourceAlpha" result="effect1_dropShadow_19_35"/>

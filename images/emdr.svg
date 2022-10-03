@@ -1,15 +1,15 @@
-<svg width="372" height="321" viewBox="0 0 372 321" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="360" height="311" viewBox="0 0 360 311" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 <g id="Group 6">
-<rect id="unsplash:jz-ayLjk2nk" width="371.72" height="321" rx="69" fill="url(#pattern0)"/>
+<rect id="unsplash:jz-ayLjk2nk" width="360" height="310.879" rx="69" fill="url(#pattern0)"/>
 <g id="Screen Shot 2022-10-01 at 11.14 1" filter="url(#filter0_d_20_39)">
-<rect x="29.1818" y="74.3441" width="313.611" height="172.312" fill="url(#pattern1)" shape-rendering="crispEdges"/>
+<rect x="28.2617" y="72.0002" width="303.723" height="166.879" fill="url(#pattern1)" shape-rendering="crispEdges"/>
 </g>
 </g>
 <defs>
 <pattern id="pattern0" patternContentUnits="objectBoundingBox" width="1" height="1">
 <use xlink:href="#image0_20_39" transform="translate(1.14766) scale(0.000518339 0.00060024) rotate(90)"/>
 </pattern>
-<filter id="filter0_d_20_39" x="3.18176" y="63.3441" width="365.611" height="224.312" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<filter id="filter0_d_20_39" x="2.26172" y="61.0002" width="355.723" height="218.879" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
 <feFlood flood-opacity="0" result="BackgroundImageFix"/>
 <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
 <feMorphology radius="11" operator="dilate" in="SourceAlpha" result="effect1_dropShadow_20_39"/>
